@@ -26,7 +26,7 @@
 ⚒️ Comprender las diferencias entre concurrencia y asincronía en Java, aprender a utilizar CompletableFuturepara la ejecución de tareas asincrónicas, y aplicar estas técnicas en casos prácticos como operaciones I/O o simulación de servicios externos.
 
 ## 👾Sesión 5
-## ⚒🔑 Objetivo: 
+## 🔑 Objetivo: 
 ⚒️ Comprender los fundamentos de la programación reactiva en Java, conocer las diferencias con el manejo tradicional de streams, e implementar flujos reactivos utilizando Project Reactor o RxJava , abordando conceptos clave como Mono , Flux y control de contrapresión .
 
 ## 👾Sesión 6
