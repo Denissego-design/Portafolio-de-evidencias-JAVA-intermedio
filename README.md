@@ -3,7 +3,7 @@
 
 
 # Curso JAVA Intermedio- Portafolio de evidencias
-¡Hola! En este portafolio encontrarás algunos retos importantes relacionados al curso de TECNOLOCHICAS en JAVA, en el cual se desarrollaron diversos códigos tomando en cuenta lo aprendido en las 10 sesiones anteriores para construir desde clases genéricas hasta clases que nos permitieran construir BackEnds básicos.
+¡Hola! En este portafolio encontrarás algunos retos importantes relacionados al curso de TECNOLOCHICAS en JAVA, en el cual se desarrollaron diversos códigos tomando en cuenta lo aprendido en las 10 sesiones anteriores para construir desde clases genéricas hasta clases que nos permitieran construir BackEnds básicos en las 6 sesiones de JAVA intermedio.
 
 
 ## 👾Sesión 1
